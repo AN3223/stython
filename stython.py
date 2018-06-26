@@ -3,7 +3,7 @@ import queue
 from inspect import signature as sig
 from tatsu import compile
 from tatsu.ast import AST
-from fpbox.fpbox import head, tail, last, reverse, map
+from fpbox import head, tail, last, reverse, map
 from string import digits
 from copy import deepcopy
 
